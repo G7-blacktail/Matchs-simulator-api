@@ -8,12 +8,12 @@
     "Mandante" : {
     "nome": "Brasil",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://rondonia.ro.gov.br/wp-content/uploads/2020/09/Bandeira-Nacionals%C3%ADmbolo-maior-da-P%C3%A1tria-Brasileira-Foto-Divulga%C3%A7%C3%A3o.jpg"
     },
         "Visitante" : {
     "nome": "Argentina",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://www.meusdicionarios.com.br/wp-content/uploads/2016/04/sh_bandeira-da-argentina_1055641856.jpg"
     }
   }
 ]
